@@ -1,4 +1,4 @@
-- 👋 Hi, I’m __@Atharr__, a.k.a. Marcello Pires Alves. --->
+- 👋 Hi, I’m __@Atharr__, a.k.a. Marcello Pires Alves. 
 - 👀 I’m interested in:
 	- science (especially Astronomy, Computer Science, Physics & Math);
 	- technology (mainly computers, electronics & space exploration);
