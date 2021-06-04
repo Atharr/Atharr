@@ -1,4 +1,4 @@
-- 👋 Hi, I’m __@Atharr__, a.k.a. Marcello Pires Alves.
+- 👋 Hi, I’m __@Atharr__, a.k.a. Marcello Pires Alves. --->
 - 👀 I’m interested in:
 	- science (especially Astronomy, Computer Science, Physics & Math);
 	- technology (mainly computers, electronics & space exploration);
@@ -7,7 +7,7 @@
 	- politics (libertarianism);
 	- and much more (movies, gaming, cooking _et cetera_...); ok, I'll stop here.
 - 🌱 I’m currently learning Node.js, Python, OpenSCAD and a few other things.
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: 
 	- e-mail: marcello.alves@gmail.com
 	- Twitter: @MarcelloPAlves
