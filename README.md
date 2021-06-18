@@ -32,33 +32,37 @@
 
 ### A few hard skills:
 
-<table align="center">
-	<tr>
-		<td>Web<br>development</td>
-		<td><img alt="HTML5" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></td>
-		<td><img alt="CSS3" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></td>
-		<td><img alt="JavaScript"	width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
-	</tr>
-	<tr>
-		<td>Code<br>versioning</td>
-		<td><img alt="Git" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></td>
-		<td><img alt="GitHub" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"></td>
-		<td><img alt="GitHub" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"></td>
-	</tr>
-	<tr>
-		<td>DIY</td>
-		<td><img alt="Arduino" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"></td>
-		<td><img alt="RaspPi" width="80%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg"></td>
-		<td><img alt="GitHub" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"></td>
-	</tr>
-</table>
+|Web<br>Development|Programming<br>Languages|Code<br>Versioning|Linux &<br>Console|Math &<br>Statistics|Do It<br>Yourself|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![HTML5][wd01] ![CSS3][wd02] ![Javascript][wd03] ![Bootstrap][wd04]  ![React][wd05] | ![C][pl01] ![C++][pl02] ![C#][pl03] ![Java][pl04] ![Python][pl05] | ![Git][cv01] ![GitHub][cv02] ![GitLab][cv03] ![Bitbucket][cv04] | ![Red Hat][lc01] ![Ubuntu][lc02] ![Debian][lc03] ![Bash][lc04] ![SSH][lc05] ![Vim][lc06] | ![Julia][ms01] ![R Lang][ms02] ![R Studio][ms03] ![MatLab][ms04] ![Minitab][ms05] | ![Arduino][dy01] ![Raspberry Pi][dy02] |
 
-
-
-
-|-|-|
-|:---:|:---:|
-| Math &<BR>Statistics | ![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg) |
+[wd01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg	"HTML5"
+[wd02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg		"CSS3"
+[wd03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg	"Javascript"
+[wd04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg	"Bootstrap"
+[wd05]: https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg	"React"
+[pl01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg			"C"
+[pl02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg	"C++"
+[pl03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg		"C#"
+[pl04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg		"Java"
+[pl05]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg	"Python"
+[cv01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg		"Git"
+[cv02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg	"GitHub"
+[cv03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg	"GitLab"
+[cv04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg "Bitbucket"
+[lc01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg	"Red Hat Linux"
+[lc02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg	"Ubuntu"
+[lc03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg	"Debian"
+[lc04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg			"Bash"
+[lc05]: https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg		"OpenSSH"
+[lc06]: https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg			"Vim"
+[ms01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original-wordmark.svg	"Julia Language"
+[ms02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg			"R Language"
+[ms03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg		"R Studio"
+[ms04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg		"MatLab"
+[ms05]: https://raw.githubusercontent.com/devicons/devicon/master/icons/minitab/minitab-original.svg		"Minitab"
+[dy01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg	"Arduino"
+[dy02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg	"Raspberry Pi"
 
 ### Some GitHub stats:
 
