@@ -57,10 +57,16 @@
 	</tr>
 </table>
 
+- A few GitHub stats:
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharr&count_private=true&show_icons=true&theme=react&bg_color=90,000000,aaaaaa)
+](https://github.com/Atharr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharr&theme=react&bg_color=90,000000,aaaaaa)](https://github.com/Atharr)
+
 <!---
 Atharr/Atharr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-Made with 💖, Markdown and HTML!
-<br>Icon set from @__devicon__.
+Made with Markdown, HTML, CSS and 💖!
+<br>Icon set from @__devicon__, GitHub Readme Stats from @__anuraghazra__.
