@@ -1,26 +1,26 @@
 # About me
 
-- 👋 Hi, I’m __@Atharr__, a.k.a. Marcello Pires Alves.
+- :wave: Hi, I’m __@Atharr__, a.k.a. Marcello Pires Alves.
 
-- 👀 I’m interested in (not necessarily in order):
-	- 🔭 **science**: especially Astronomy, Computer Science, Physics & Math;
-	- 🖥️ **technology**: mainly computers, electronics & space exploration;
-	- 🎵 **music**: especially rock, blues, jazz, classical music & opera;
-	- 🎼 **playing**: electric & acoustic guitar, bass, a _little_ bit of keyboards;
-	- 📖 **reading**: literature, fiction, science fiction, comics... it goes on!;
-	- ♟️ **games**: computer games, board games, tabletop RPG, _chess!_ and so forth;
-	- 🏎️ **sports**: especially motorsports, soccer and ice hockey;
-	- and much more (movies, cooking, patchwork, carpentry _et cetera_...); ok, I'll stop here.
+- :eyes: I’m interested in (not necessarily in order):
+	- :telescope: **science**: especially Astronomy, Computer Science, Physics & Math;
+	- :desktop_computer: **technology**: mainly computers, electronics & space exploration;
+	- :musical_note: **music**: especially rock, blues, jazz, classical music & opera;
+	- :guitar: **playing**: electric & acoustic guitar, bass, a _little_ bit of keyboards;
+	- :book: **reading**: literature, fiction, science fiction, comics... it goes on!;
+	- :chess_pawn: **games**: computer games, board games, tabletop RPG, _chess!_ and so forth;
+	- :racing_car: **sports**: especially motorsports, soccer and ice hockey;
+	- :movie_camera: and much more (movies, cooking, patchwork, carpentry _et cetera_...); ok, I'll stop here.
 
-- 🌱 I’m currently learning:
-	- Software Development @ __@Tryber__;
-	- Node.js, Python, OpenSCAD and a few other things.
+- :seedling: I’m currently learning:
+	- Full Stack Web Development at __@Tryber__;
+	- Node.js, Python, Typescript OpenSCAD and a few other things.
 
-- 💞️ I’m looking to collaborate on:
+- :revolving_hearts: I’m looking to collaborate on:
 	- open source projects;
 	- music projects.
 
-- 📫 How to reach me: 
+- :mailbox: How to reach me: 
 	- e-mail: [marcello.alves@gmail.com](mailto:marcello.alves@gmail.com)
 	- Twitter: [@MarcelloPAlves](https://twitter.com/MarcelloPAlves)
 	- Facebook: https://www.facebook.com/marcello.alves
@@ -30,13 +30,9 @@
 	- Keybase: [mpalves](https://keybase.io/mpalves)
 	- Skype: [mpalves](skype:mpalves?call)
 
-- A few hard skills:
+### A few hard skills:
 
 <table align="center">
-	<tr>
-		<td>Category</td>
-		<td colspan=3>Skills</td>
-	</tr>
 	<tr>
 		<td>Web<br>development</td>
 		<td><img alt="HTML5" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></td>
@@ -57,16 +53,24 @@
 	</tr>
 </table>
 
-- A few GitHub stats:
+
+
+
+|-|-|
+|:---:|:---:|
+| Math &<BR>Statistics | ![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg) |
+
+### Some GitHub stats:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharr&count_private=true&show_icons=true&theme=react&bg_color=90,000000,aaaaaa)
 ](https://github.com/Atharr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharr&theme=react&bg_color=90,000000,aaaaaa)](https://github.com/Atharr)
 
-<!---
-Atharr/Atharr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Made with Markdown, HTML, CSS and 💖!
-<br>Icon set from @__devicon__, GitHub Readme Stats from @__anuraghazra__.
+<!-- - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported -->
+	
+### Made with :heart:, Markdown, HTML, CSS and help from the following:
+- [x] [Atharr/Atharr](https://github.com/Atharr/Atharr/) is a :sparkles: special :sparkles: repository because its `README.md` (this file) appears on my GitHub profile. You can do it too!
+- [x] Icon set from __@devicons__'s superb [devicon](https://github.com/devicons/devicon).
+- [x] GitHub stats from __@anuraghazra__'s amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+- [x] __@ikatyang__'s [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) is an excellent reference to the [GitHub Emoji API](https://api.github.com/emojis).
+- [ ] WIP. Still adding stuff!
