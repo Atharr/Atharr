@@ -36,18 +36,22 @@
 
 |Web<br>Development|Programming<br>Languages|Code<br>Versioning|Linux &<br>Console|Math &<br>Statistics|Databases|Do It<br>Yourself|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![HTML5][wd01] ![CSS3][wd02] ![Javascript][wd03] ![Bootstrap][wd04]  ![React][wd05] | ![C][pl01] ![C++][pl02] ![C#][pl03] ![Java][pl04] ![Python][pl05] | ![Git][cv01] ![GitHub][cv02] ![GitLab][cv03] ![Bitbucket][cv04] | ![Red Hat][lc01] ![Ubuntu][lc02] ![Debian][lc03] ![Bash][lc04] ![SSH][lc05] ![Vim][lc06] | ![Julia][ms01] ![R Lang][ms02] ![R Studio][ms03] ![MatLab][ms04] ![Minitab][ms05] | ![MySQL][db01] ![PostgreSQL][db02] ![Oracle][db03] ![MS SQL][db04] ![MongoDB][db05] | ![Arduino][dy01] ![Raspberry Pi][dy02] |
+| ![HTML5][wd01] ![CSS3][wd02] ![Javascript][wd03] ![Bootstrap][wd04]  ![React][wd05] ![PHP][wd06] ![TypeScript][wd07] | ![C][pl01] ![C++][pl02] ![C#][pl03] ![Java][pl04] ![Python][pl05] ![Perl][pl06] ![Ruby][pl07] | ![Git][cv01] ![GitHub][cv02] ![GitLab][cv03] ![Bitbucket][cv04] | ![Red Hat][lc01] ![Ubuntu][lc02] ![Debian][lc03] ![Bash][lc04] ![SSH][lc05] ![Vim][lc06] | ![Julia][ms01] ![R Lang][ms02] ![R Studio][ms03] ![MatLab][ms04] ![Minitab][ms05] | ![MySQL][db01] ![PostgreSQL][db02] ![Oracle][db03] ![MS SQL][db04] ![MongoDB][db05] | ![Arduino][dy01] ![Raspberry Pi][dy02] |
 
 [wd01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg	"HTML5"
 [wd02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg		"CSS3"
 [wd03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg	"Javascript"
 [wd04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg	"Bootstrap"
 [wd05]: https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg	"React"
+[wd06]: https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg			"PHP"
+[wd07]: https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg	"TypeScript"
 [pl01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg			"C"
 [pl02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg	"C++"
 [pl03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg		"C#"
 [pl04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg		"Java"
 [pl05]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg	"Python"
+[pl06]: https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg			"Perl"
+[pl07]: https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg		"Ruby"
 [cv01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg		"Git"
 [cv02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg	"GitHub"
 [cv03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg	"GitLab"
