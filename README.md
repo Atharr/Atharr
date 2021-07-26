@@ -20,7 +20,9 @@
 	- open source projects;
 	- music projects.
 
-- :mailbox: How to reach me: 
+- :mailbox: How to reach me:
+	- GitHub: [Atharr](https://github.com/Atharr) (you're here already!)
+	- GitLab: [mpalves](https://gitlab.com/mpalves)
 	- e-mail: [marcello.alves@gmail.com](mailto:marcello.alves@gmail.com)
 	- Twitter: [@MarcelloPAlves](https://twitter.com/MarcelloPAlves)
 	- Facebook: https://www.facebook.com/marcello.alves
