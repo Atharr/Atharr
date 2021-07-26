@@ -34,9 +34,9 @@
 
 ### A few hard skills:
 
-|Web<br>Development|Programming<br>Languages|Code<br>Versioning|Linux &<br>Console|Math &<br>Statistics|Do It<br>Yourself|
+|Web<br>Development|Programming<br>Languages|Code<br>Versioning|Linux &<br>Console|Math &<br>Statistics|Databases|Do It<br>Yourself|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![HTML5][wd01] ![CSS3][wd02] ![Javascript][wd03] ![Bootstrap][wd04]  ![React][wd05] | ![C][pl01] ![C++][pl02] ![C#][pl03] ![Java][pl04] ![Python][pl05] | ![Git][cv01] ![GitHub][cv02] ![GitLab][cv03] ![Bitbucket][cv04] | ![Red Hat][lc01] ![Ubuntu][lc02] ![Debian][lc03] ![Bash][lc04] ![SSH][lc05] ![Vim][lc06] | ![Julia][ms01] ![R Lang][ms02] ![R Studio][ms03] ![MatLab][ms04] ![Minitab][ms05] | ![Arduino][dy01] ![Raspberry Pi][dy02] |
+| ![HTML5][wd01] ![CSS3][wd02] ![Javascript][wd03] ![Bootstrap][wd04]  ![React][wd05] | ![C][pl01] ![C++][pl02] ![C#][pl03] ![Java][pl04] ![Python][pl05] | ![Git][cv01] ![GitHub][cv02] ![GitLab][cv03] ![Bitbucket][cv04] | ![Red Hat][lc01] ![Ubuntu][lc02] ![Debian][lc03] ![Bash][lc04] ![SSH][lc05] ![Vim][lc06] | ![Julia][ms01] ![R Lang][ms02] ![R Studio][ms03] ![MatLab][ms04] ![Minitab][ms05] | ![MySQL](db01) ![PostgreSQL](db02) ![Oracle](db03) ![MS SQL](db04) | ![Arduino][dy01] ![Raspberry Pi][dy02] |
 
 [wd01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg	"HTML5"
 [wd02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg		"CSS3"
@@ -63,6 +63,11 @@
 [ms03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg		"R Studio"
 [ms04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg		"MatLab"
 [ms05]: https://raw.githubusercontent.com/devicons/devicon/master/icons/minitab/minitab-original.svg		"Minitab"
+[db01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg	"MySQL"
+[db02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg	"PostgreSQL"
+[db03]: https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg		"Oracle"
+[db04]: https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg	"MS SQL Server"
+[db05]: https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg	"MongoDB"
 [dy01]: https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg	"Arduino"
 [dy02]: https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg	"Raspberry Pi"
 
