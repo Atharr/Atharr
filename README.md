@@ -24,10 +24,12 @@
 	- <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/> [Atharr](https://github.com/Atharr) (you're here already!)
 	- <img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg"/> [mpalves](https://gitlab.com/mpalves)
 	- <img align="left" alt="e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg"/> [marcello.alves@gmail.com](mailto:marcello.alves@gmail.com)
+	- <img align="left" alt="e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/slack.svg"/> [Marcello Alves](https://trybecourse.slack.com/team/U0241RF8TK4)
+	- 
 	- <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/> [@MarcelloPAlves](https://twitter.com/MarcelloPAlves)
+	- <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/> https://www.linkedin.com/in/marcellopiresalves
 	- <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg"/> https://www.facebook.com/marcello.alves
 	- <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/> https://www.instagram.com/marcellopiresalves
-	- <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/> https://www.linkedin.com/in/marcellopiresalves
 	- <img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg"/> [mpalves](https://reddit.com/user/mpalves)
 	- <img align="left" alt="Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/keybase.svg"/> [mpalves](https://keybase.io/mpalves)
 	- <img align="left" alt="Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg"/> [mpalves](skype:mpalves?call)
@@ -86,6 +88,7 @@
 ### Made with :heart:, Markdown, HTML, CSS and help from the following:
 - [x] [Atharr/Atharr](https://github.com/Atharr/Atharr/) is a :sparkles: special :sparkles: repository because its `README.md` (this file) appears on my GitHub profile. You can do it too!
 - [x] Icon set from __@devicons__'s superb [devicon](https://github.com/devicons/devicon).
+- [x] Icon set from __@simple-icons__'s great [simple-icons](https://github.com/simple-icons/simple-icons).
 - [x] GitHub stats from __@anuraghazra__'s amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 - [x] __@ikatyang__'s [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) is an excellent reference to the [GitHub Emoji API](https://api.github.com/emojis).
 - [ ] WIP. Still adding stuff!
