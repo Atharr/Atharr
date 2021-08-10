@@ -24,8 +24,8 @@
 	- <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/> [Atharr](https://github.com/Atharr) (you're here already!)
 	- <img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg"/> [mpalves](https://gitlab.com/mpalves)
 	- <img align="left" alt="e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg"/> [marcello.alves@gmail.com](mailto:marcello.alves@gmail.com)
-	- <img align="left" alt="e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/slack.svg"/> [Marcello Alves](https://trybecourse.slack.com/team/U0241RF8TK4)
-	- 
+	- <img align="left" alt="Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/slack.svg"/> [Marcello Alves](https://trybecourse.slack.com/team/U0241RF8TK4)
+	- <img align="left" alt="Zoom" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zoom.svg"/> [Marcello Alves](https://us05web.zoom.us/j/2646881810)
 	- <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/> [@MarcelloPAlves](https://twitter.com/MarcelloPAlves)
 	- <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/> https://www.linkedin.com/in/marcellopiresalves
 	- <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg"/> https://www.facebook.com/marcello.alves
